@@ -1,8 +1,8 @@
 [
     {
         "id": "Node 1",
-        "hostname": "localhost",
-        "port": 2333,
-        "password": "youshallnotpass"
+        "hostname": 139.99.124.43,
+        "port": 7784,
+        "password": "PasswordIsZoldy"
     }
 ]
