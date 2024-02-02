@@ -1,8 +1,8 @@
 [
     {
         "id": "Node 1",
-        "hostname": 139.99.124.43,
-        "port": 7784,
-        "password": "PasswordIsZoldy"
+        "hostname": "lavalink.teramont.net",
+        "port": 25565,
+        "password": "eHKuFcz67k4lBS64"
     }
 ]
